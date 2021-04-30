@@ -2,8 +2,11 @@
 
 ## Authors
 Ailton LOPES MENDES
+
 Fabien LAMBERT--DELAVAQUERIE
+
 Gérald LIN
+
 Jonathan CHU
 
 ## Tunning des hyper paramètres
